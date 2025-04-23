@@ -18,3 +18,12 @@ Clone the repository and install using `pip`:
 git clone https://github.com/yourusername/RPi_SocketComm.git
 cd RPi_SocketComm
 pip install .
+
+## 🧠 Method Overview
+
+        Method            |              Description
+--------------------------+---------------------------------------------------
+start_identium_server()   | Starts a server to receive data from IDENTIUM
+parse_identium_data()     | Parses and extracts RFID tag from IDENTIUM bytes
+start_secureye_client()   | Connects to SECUREYE and receives data
+parse_secureye_data()     | Parses SECUREYE RFID hex if valid
