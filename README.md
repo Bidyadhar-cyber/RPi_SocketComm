@@ -19,7 +19,7 @@ git clone https://github.com/yourusername/RPi_SocketComm.git
 cd RPi_SocketComm
 pip install .
 
-**🧠 Method Overview**
+🧠 Method Overview
 
         Method            |              Description
 --------------------------+---------------------------------------------------
