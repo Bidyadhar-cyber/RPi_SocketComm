@@ -15,7 +15,7 @@ RPi_SocketComm is a Python package designed for Raspberry Pi-based RFID systems 
 Clone the repository and install using `pip`:
 
 ```bash
-git clone https://github.com/yourusername/RPi_SocketComm.git
+git clone https://github.com/Bidyadhar-cyber/RPi_SocketComm.git
 cd RPi_SocketComm
 pip install . --break-system-packages
 
